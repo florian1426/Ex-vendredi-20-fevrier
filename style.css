@@ -39,22 +39,22 @@ body
     background-color: rgb(215, 233, 254);
 }
   
-.feature-1 
+.feature1 
 {
     background-color: rgb(245, 207, 142);
 }
   
-.feature-2 
+.feature2 
 {
     background-color: rgb(240, 154, 157);
 }
   
-.feature-3 
+.feature3 
 {
     background-color: rgb(200, 198, 250);
 }
   
-@media all and (min-width: 401px) and (max-width: 960px) {.sign-up, .feature-1, .feature-2, .feature-3 
+@media all and (min-width: 401px) and (max-width: 960px) {.sign-up, .feature1, .feature2, .feature3 
     {
       width: 50%;
     }
@@ -68,7 +68,7 @@ body
 .page {
     width: 960px;
 }
-.feature-1, .feature-2, .feature-3 {
+.feature1, .feature2, .feature3 {
     width: 33.33%;
 }
 .header {
